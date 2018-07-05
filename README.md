@@ -15,6 +15,7 @@
 # Overview
 
 This is fitness app for running app on iOS.
+This is not available on the app store.
 
 
 # Skills
@@ -24,8 +25,4 @@ This is fitness app for running app on iOS.
 
 # Screenshots
 
-![](../../downloads/01.jpg)
-![](../../downloads/02.jpg)
-![](../../downloads/03.jpg)
-![](../../downloads/04.jpg)
-![](../../downloads/05.jpg)
+<img src="GetFit/Default.png" alt="alt text" width="300">
